@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shatakshi-Singh
 - 👀 I’m interested in my 2nd year of B.Tech Computer Science
 - 🌱 I’m currently learning Web-Development 
-- 📫 Reach me on ss8664@srmist.edu.in
-
+- 📫 Reach me on 
 <p align="left">
 
  <a href="https://www.linkedin.com/in/shatakshi-singh-5b750b18b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>
