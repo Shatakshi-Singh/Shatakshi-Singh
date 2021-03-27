@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Shatakshi-Singh
-- 👀 I’m interested in my 2nd year of B.Tech Computer Science
-- 🌱 I’m currently learning Web-Development 
+
+<h2><img align="left" src="https://static.wixstatic.com/media/f5d826_8ac5ee7901b145d1bdaf7536dd808aa3~mv2.gif" width="70"  > Hello, I’m Shatakshi </h2>
+
+<img align="right" src="https://thumbs.gfycat.com/LazyAccomplishedDouglasfirbarkbeetle-size_restricted.gif" width="250" style="max-width:100%;">
+
 - 📫 Reach me on 
 <p align="left">
 
@@ -14,6 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-singh&theme=tokyonight)
 
 [![Github](https://img.shields.io/github/followers/shatakshi-singh?label=Follow&style=social)](https://github.com/shatakshi-singh)
+
+
 
 <!---
 Shatakshi-Singh/Shatakshi-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
