@@ -1,7 +1,7 @@
 
 <h2><img align="left" src="https://static.wixstatic.com/media/f5d826_8ac5ee7901b145d1bdaf7536dd808aa3~mv2.gif" width="70"  > Hello, I’m Shatakshi </h2>
 
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="250" style="max-width:100%;">
+<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300" style="max-width:100%;">
 
 - 📫 Reach me on 
 <p align="left">
