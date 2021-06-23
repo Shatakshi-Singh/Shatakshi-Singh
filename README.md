@@ -17,6 +17,8 @@
 
 [![Github](https://img.shields.io/github/followers/shatakshi-singh?label=Follow&style=social)](https://github.com/shatakshi-singh)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shatakshi-Singh&color=brightgreen)
+
 
 
 <!---
