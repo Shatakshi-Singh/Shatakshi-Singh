@@ -29,7 +29,7 @@
 
 [![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshi-singh&theme=tokyonight)](https://github.com/shatakshi-singh/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-singh&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
 
 [![Github](https://img.shields.io/github/followers/shatakshi-singh?label=Follow&style=social)](https://github.com/shatakshi-singh)
 
