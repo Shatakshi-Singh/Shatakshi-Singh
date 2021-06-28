@@ -1,7 +1,7 @@
 
 <h2><img align="left" src="https://static.wixstatic.com/media/f5d826_8ac5ee7901b145d1bdaf7536dd808aa3~mv2.gif" width="70"  > Hello, I’m Shatakshi </h2>
 
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300" style="max-width:100%;">
+<img align="right" src="https://media.giphy.com/media/RLVRJ2IvpdHVHFPWNo/giphy.gif" width="300" style="max-width:100%;">
 
 - 📫 Reach me on 
 <p align="left">
@@ -20,7 +20,10 @@
 <br>
 
 
+
 ### Languages, Tools & Framework:
+
+<br>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)=
@@ -33,16 +36,18 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-
+<br>
 
 [![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshi-singh&theme=tokyonight)](https://github.com/shatakshi-singh/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-singh&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-singh&theme=radical&layout=compact&hide=html" alt="Shatakshi-Singh" /> 
 
 [![Github](https://img.shields.io/github/followers/shatakshi-singh?label=Follow&style=social)](https://github.com/shatakshi-singh)
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shatakshi-Singh&color=brightgreen)
 
+<br>
 
 <img align="left" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
 
