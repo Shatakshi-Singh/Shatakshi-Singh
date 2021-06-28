@@ -26,7 +26,7 @@
 <br>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)=
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
