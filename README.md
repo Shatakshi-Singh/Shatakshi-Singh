@@ -5,11 +5,19 @@
 
 - 📫 Reach me on 
 <p align="left">
+ 
+   <a href="https://www.linkedin.com/in/shatakshi-singh-5b750b18b/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/s.shatakshi/">
+    <img align="left" alt="Aravind C | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:ss8664@srmist.edu.in">
+    <img align="left" alt="Aravind C| Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
- <a href="https://www.linkedin.com/in/shatakshi-singh-5b750b18b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ss8664@srmist.edu.in"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/s.shatakshi/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
+<br>
 
 
 ### Languages, Tools & Framework:
