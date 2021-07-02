@@ -1,5 +1,5 @@
 
-<h2><img align="left" src="https://static.wixstatic.com/media/f5d826_8ac5ee7901b145d1bdaf7536dd808aa3~mv2.gif" width="70"  > Hello, I’m Shatakshi </h2>
+<h2><img align="left" src="https://media.giphy.com/media/ZZeVArRYe05EnhZT4l/giphy.gif" width="70"  >I’m Shatakshi </h2>
 
 <img align="right" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="300" style="max-width:100%;">
 
