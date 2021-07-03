@@ -51,7 +51,8 @@
 
 <img align="left" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
 
-
+<br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
 
 <!---
 Shatakshi-Singh/Shatakshi-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
