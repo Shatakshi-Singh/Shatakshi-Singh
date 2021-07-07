@@ -49,7 +49,7 @@
 
 <br>
 
-<img align="left" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
+<img align="left" height="400" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
 
 <br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
