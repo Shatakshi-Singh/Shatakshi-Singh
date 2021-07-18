@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="300" style="max-width:100%;">
 
-- 📫 Reach me on 
+-  <h2>📫 Reach me on </h2>
 <p align="left">
  
    <a href="https://www.linkedin.com/in/shatakshi-singh-5b750b18b/">
@@ -18,23 +18,21 @@
 
 </p>
 <br>
-
-
-
-### Languages, Tools & Framework:
+<h2> Languages, Tools & Framework:</h2>
 
 <br>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C")
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&logoColor=00599C)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart&logoColor=00599C)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=00599C)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=00599C)
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat-square&logo=Node.js&logoColor=00599C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=00599C)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku&logoColor=00599C)
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=00599C)
 
 <br>
 
