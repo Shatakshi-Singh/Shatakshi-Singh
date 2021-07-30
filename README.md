@@ -3,18 +3,19 @@
 
 <img align="right" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="300" style="max-width:100%;">
 
--  <h2>📫 Reach me on </h2>
+-  <h2>📫 Connect me on! </h2>
 <p align="left">
  
    <a href="https://www.linkedin.com/in/shatakshi-singh-5b750b18b/">
     <img align="left" alt="Shatakshi Singh | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
+   <a href="mailto:ss8664@srmist.edu.in">
+    <img align="left" alt=" Shatakshi Singh| Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
   <a href="https://www.instagram.com/s.shatakshi/">
     <img align="left" alt="Shatakshi Singh | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:ss8664@srmist.edu.in">
-    <img align="left" alt=" Shatakshi Singh| Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+
 
 </p>
 <br>
