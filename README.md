@@ -18,6 +18,8 @@
 
 
 </p>
+
+
 <br>
 <h2> Languages, Tools & Framework:</h2>
 
@@ -37,18 +39,29 @@
 
 <br>
 
-[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshi-singh&theme=tokyonight)](https://github.com/shatakshi-singh/github-readme-stats)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-singh&theme=radical&layout=compact&hide=html" alt="Shatakshi-Singh" /> 
-
-[![Github](https://img.shields.io/github/followers/shatakshi-singh?label=Follow&style=social)](https://github.com/shatakshi-singh)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shatakshi-Singh&color=brightgreen)
 
 <br>
 
-<img align="left" height="400" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
 
+<details>
 <br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
+ 
+[![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshi-singh&theme=tokyonight)](https://github.com/shatakshi-singh/github-readme-stats)
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
+<br>
+<img align="center" height="400" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
+</details>
+
+
+<h3 align ='left'> Here's some daily dose of humor for you: </h3>
+<img  align ='center' src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
+
+
+
+
+
+
+
