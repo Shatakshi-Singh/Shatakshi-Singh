@@ -1,5 +1,5 @@
 
-<h2>I’m Shatakshi </h2>
+
 
 <img align="right" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="300" style="max-width:100%;">
 
