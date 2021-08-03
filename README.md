@@ -1,7 +1,7 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="300" style="max-width:100%;">
+<img align="right" src="https://avatarfiles.alphacoders.com/157/thumb-1920-15796.jpg" width="200" heigth="200" style="max-width:100%;">
 
 -  <h2>📫 Connect me on! </h2>
 <p align="left">
