@@ -36,6 +36,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=00599C)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku&logoColor=00599C)
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=00599C)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=00599C)
 
 <br>
 
