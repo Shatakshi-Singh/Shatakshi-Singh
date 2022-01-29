@@ -2,7 +2,7 @@
 
  <!-- ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robota&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Shatakshi) -->
  ### Hey👋, I'm Shatakshi
-<img align="right" src="https://avatarfiles.alphacoders.com/157/thumb-1920-15796.jpg" width="200" heigth="200" style="max-width:100%;">
+<!-- <img align="right" src="https://avatarfiles.alphacoders.com/157/thumb-1920-15796.jpg" width="200" heigth="200" style="max-width:100%;"> -->
 
 -  <h2>📫 Connect me on! </h2>
 <p align="left">
