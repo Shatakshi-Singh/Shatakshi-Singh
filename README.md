@@ -48,7 +48,7 @@
 <br>
 
 
-<details>
+
 <br>
  
 [![Shatakshi's github stats](https://github-readme-stats.vercel.app/api?username=shatakshi-singh&theme=tokyonight)](https://github.com/shatakshi-singh/github-readme-stats)
@@ -56,7 +56,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
 <br>
 <img align="center" height="400" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
-</details>
+
 
 
 <h3 align ='left'> Here's some daily dose of humor for you: </h3>
