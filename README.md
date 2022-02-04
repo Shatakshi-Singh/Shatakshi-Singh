@@ -56,16 +56,3 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi-Singh&theme=tokyonight_duo" alt="Shatakshi-Singh" />
 <br>
 <img align="center" height="400" width="860" src="https://activity-graph.herokuapp.com/graph?username=Shatakshi-Singh&theme=react-dark"/>
-
-
-
-<h3 align ='left'> Here's some daily dose of humor for you: </h3>
-<img  align ='center' src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
-
-
-
-
-
-
-
