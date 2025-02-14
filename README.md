@@ -12,10 +12,7 @@
   </a>
    <a href="mailto:ss8664@srmist.edu.in">
     <img align="left" alt=" Shatakshi Singh| Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="https://www.instagram.com/s.shatakshi/">
-    <img align="left" alt="Shatakshi Singh | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
+   </a>
 
 
 </p>
